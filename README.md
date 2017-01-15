@@ -1,4 +1,5 @@
-# SPITFIRE Open source simulator trying to replicate Evony game
+# SPITFIRE 
+## Open source simulator trying to replicate Evony game
 ### Download dependencies from here:  </br>
 http://www.mediafire.com/file/2smn2g7ygyyyfv8/includes.zip </br>
  Make sure you extract "includes.zip" and add it to your root project directory </br>
