@@ -2,7 +2,7 @@
 ## Open source simulator trying to replicate Evony game
 ### Download dependencies from here:  </br>
 http://www.mediafire.com/file/2smn2g7ygyyyfv8/includes.zip </br>
-* Make sure you extract "includes.zip" and add it to your root project directory </br>
+* Make sure you extract "includes.zip" and add it to your root project directory. </br>
 ### Download webroot from here: 
 http://www.mediafire.com/file/ar8yzt7jf4r3txa/spitfire_webroot.zip </br>
 ### Download MYSQL Dump from here: 
