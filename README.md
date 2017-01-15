@@ -1,6 +1,6 @@
 # SPITFIRE
-Open source simulator trying to replicate Evony game</br>
-Cross platform, c++, open source evony simulator,credits to @Daizee</br>
+### Open source simulator trying to replicate Evony game</br>
+### Cross platform, c++, open source evony simulator,credits to @Daizee</br>
 
 Download dependencies from here http://www.mediafire.com/file/2smn2g7ygyyyfv8/includes.zip </br>
 Make sure you extract "includes.zip" and add it to your root project directory </br>
