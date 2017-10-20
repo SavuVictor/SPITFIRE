@@ -18,5 +18,5 @@ For local use you'll need wamp or xamp server in order to have a mysql server.
  * Here you have a precompiled version,keep in mind it has a lots of bugs. 
  * Download release link: http://www.mediafire.com/file/vdmmph41qvqrn30/spitfire_release.zip 
  * More details about how to configure your Host/localhost to be added soon. 
- * Cross platform, c++, open source evony simulator,credits to @Daizee
+ * Credits to @Daizee
 
